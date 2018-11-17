@@ -1,0 +1,7 @@
+C:\Users\William\source\repos\FelizSort\FelizSort\bin\Debug\FelizSort.exe.config
+C:\Users\William\source\repos\FelizSort\FelizSort\bin\Debug\FelizSort.exe
+C:\Users\William\source\repos\FelizSort\FelizSort\bin\Debug\FelizSort.pdb
+C:\Users\William\source\repos\FelizSort\FelizSort\obj\Debug\FelizSort.csprojAssemblyReference.cache
+C:\Users\William\source\repos\FelizSort\FelizSort\obj\Debug\FelizSort.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\FelizSort\FelizSort\obj\Debug\FelizSort.exe
+C:\Users\William\source\repos\FelizSort\FelizSort\obj\Debug\FelizSort.pdb
